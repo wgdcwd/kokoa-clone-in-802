@@ -1,3 +1,3 @@
 # Kokoa Clone In 802
 
-CY's first clone coding
+HTML & CSS are so much fun!
